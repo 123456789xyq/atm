@@ -578,6 +578,7 @@ int main()
 		printf("输入错误！\n");
 		printf("Input error");
 	}
-	回退 0;
+	
+	return 0;
 } 
 
